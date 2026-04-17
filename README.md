@@ -96,7 +96,7 @@ birthday wish
     <div class="hearts-bg" id="hearts"></div>
 
     <div id="landing-page" class="container">
-        <img src="https://via.placeholder.com/200?text=Our+Photo" alt="Us">
+        <img src="https://drive.google.com/file/d/1QO6l3p3zUNc1sZblGxMvhXaOSW1cT7fQ/view?usp=sharing" alt="Us">
         <h2 style="color: var(--dark-pink);">Hey Bhondu! ❤️</h2>
         <p>Enter the secret word to unlock your surprise:</p>
         <input type="password" id="passcode" placeholder="What's the secret word?">
